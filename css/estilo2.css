@@ -1,0 +1,39 @@
+*{
+    font-family: monospace;
+    margin: 30px;
+}
+
+body{
+
+
+    background: linear-gradient(black,white) 
+
+}
+h1
+{
+    padding: 15px;
+    color: black;
+    background-color: white;
+    text-align: center;
+    text-decoration: overline;text-transform: uppercase;
+}
+h2{
+    padding: 15px;
+    color: black;
+    text-align: center;
+    text-decoration: overline;text-transform: uppercase;
+   
+}
+p{
+    padding: 10px;
+    font-size: medium;
+    color: white;
+    text-align: justify;
+    background-color: black;
+    border-radius: 10%;
+
+}
+img{
+width: 40%;
+border-radius: 20%;
+}
